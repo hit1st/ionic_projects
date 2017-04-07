@@ -14,6 +14,7 @@ import { App, Config, Form, IonicModule, Keyboard, DomController, MenuController
 import { ConfigMock } from './mocks';
  
 // Unfortunately there's no typing for the `__karma__` variable. Just declare it as any.
+// check what this is
 declare var __karma__: any;
 declare var require: any;
  
